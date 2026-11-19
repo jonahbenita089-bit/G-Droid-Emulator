@@ -1,0 +1,6 @@
+{
+  "name": "Pixel AVD Studio",
+  "description": "Interactive Android emulator featuring all core Google apps, Google Play Store app installation, system controls, and live media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
